@@ -17,6 +17,7 @@ The plugin requires IDA 7.3.
 __author__ = 'https://github.com/patois'
 
 HL_COLOR = 0xAD8044
+HL_COLOR = 0xB6D7A8 # Madang (green)
 
 # -----------------------------------------------------------------------
 class idb_hook_t(IDB_Hooks):
